@@ -15,3 +15,12 @@
 // }
 
 // export default Card
+
+const Card = () => {
+return <div>
+    <h1 style={{color: "#0866ff"}}>Facebook</h1>
+    <h2>Connect with friends and the world around you on Facebook.</h2>
+</div>
+}
+
+export default Card
