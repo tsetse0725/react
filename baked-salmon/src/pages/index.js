@@ -1,7 +1,7 @@
-import Recipes from "@/components/recipes"
+import Recipes from "@/components/Recipes";
 
 const Home = () => {
-  return <Recipes />
-}
+  return <Recipes />;
+};
 
-export default Home
+export default Home;
